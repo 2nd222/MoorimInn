@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b38d0376e58414c84432c07352e7bf5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogPopupPrefab: {instanceID: 0}
+  - amountPopupObj: {fileID: 7939990253794488638, guid: 8d4397d685e008a458c0812e5cbe03b2, type: 3}
+  - okPopupObj: {fileID: 1720754264813194590, guid: 8c5354b9f7446604a848aaee2bff6f53, type: 3}
+  - defaultUI: {instanceID: 0}
+  - tempGuestData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
